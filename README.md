@@ -1,6 +1,6 @@
 # Legal Case Outcome Prediction System
 
-Machine learning pipeline for predicting legal case outcomes using natural language processing and supervised learning. Built as our ISTE 470 (Data Science Programming) final project at RIT — team **Group 10** (Muzammilkhan Pathan, Syed Ibrahim), Fall 2024.
+Machine learning pipeline for predicting legal case outcomes using natural language processing and supervised learning. Built for my ISTE 470 (Data Science Programming) final project at RIT, Fall 2024.
 
 Given the text of an Australian court case citation, the model predicts how that citation was treated by a later case — e.g. `cited`, `applied`, `followed`, `distinguished`, `affirmed` — using ~12,000 labeled case texts.
 
