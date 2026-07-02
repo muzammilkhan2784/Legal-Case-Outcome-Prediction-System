@@ -51,7 +51,6 @@ The top TF-IDF terms driving Random Forest's predictions were dominated by proce
 Legal-Case-Outcome-Prediction-System/
 ├── legal_case_classification.ipynb          # Full pipeline: EDA, preprocessing, training, evaluation
 ├── legal_text_classification.csv              # ~12k labeled Australian case citations
-├── Legal_Case_Outcome_Prediction_Report.pdf   # Written project report
 ├── notebook_export.pdf                        # PDF export of the notebook run
 └── images/                                    # Charts and plots generated during analysis
     ├── case_outcome_distribution.png
